@@ -1,4 +1,4 @@
-# IOT
+# IOT - soil moisture detection
 Soil moisture detection
 In this project, I will talk about Soil Moisture Sensor and how can we save water in our home gardens by Interfacing Soil Moisture Sensor with Arduino and controlling the water supply to plants.
 In the current phase, one of the world's major problems is lack of water and water is consumed abundantly in agriculture. Therefore an appropriate water consumption system is required. 
